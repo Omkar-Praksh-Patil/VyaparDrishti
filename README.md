@@ -31,7 +31,7 @@ An end-to-end data intelligence platform that analyzes Amazon product reviews to
 
 ## 🚀 Setup Instructions
 ```bash
-git clone https://github.com/YourUsername/VyaparDrishti.git
+git clone https://github.com/Omkar-Praksh-Patil/VyaparDrishti.git
 cd VyaparDrishti
 python -m venv venv
 venv\Scripts\activate
