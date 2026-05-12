@@ -20,13 +20,14 @@ An end-to-end data intelligence platform that analyzes Amazon product reviews to
 | Frontend | Plotly Dash |
 
 ## 📁 Project Structure
-VyaparDrishti/
-├── data/           → Raw & processed datasets
-├── notebooks/      → EDA & model training
-├── models/         → Saved ML models
-├── flask_app/      → Web application
-├── reports/        → Charts & outputs
-└── config.py       → Global config
+
+    VyaparDrishti/
+    ├── data/           → Raw & processed datasets
+    ├── notebooks/      → EDA & model training
+    ├── models/         → Saved ML models
+    ├── flask_app/      → Web application
+    ├── reports/        → Charts & outputs
+    └── config.py       → Global config
 
 ## 🚀 Setup Instructions
 ```bash
