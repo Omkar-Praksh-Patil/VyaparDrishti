@@ -1,0 +1,15 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.0
+xgboost==2.0.3
+flask==3.0.3
+plotly==5.22.0
+sqlalchemy==2.0.30
+nltk==3.8.1
+transformers==4.41.2
+torch==2.3.0
+tqdm==4.66.4
+kaggle==1.6.14
+python-dotenv==1.0.1
+jupyter==1.0.0
+ipykernel==6.29.4
