@@ -1,13 +1,41 @@
-# project specific
+# standard python stuff
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+
+# virtual environment
 venv/
+env/
+.venv/
+
+# jupyter
+.ipynb_checkpoints/
+
+# data files - dont push raw data to github
 data/raw/*
 !data/raw/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
 *.csv
 *.zip
-__pycache__/
-*.pyc
-.env
+*.json
+
+# model files are too big
 models/*
 !models/.gitkeep
+
+# env file has secrets
+.env
+
+# os stuff
+.DS_Store
+Thumbs.db
+
+# vscode
+.vscode/
+
+# logs
+*.log
